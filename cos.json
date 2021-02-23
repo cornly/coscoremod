@@ -1,6 +1,7 @@
-
+[
+{
 "name": "NAME",
-"uuid": "063fa328-3985-4626-83b0-4f2cd226b0e4",
+"uuid": "5b48ca54-49c7-495f-815a-29c561f1e319",
 "enabled": "true",
 "cape-style": "",
 "cape-enabled": "true",
@@ -13,6 +14,7 @@
 "wings-g": "0.1F",
 "wings-b": "0.1F",
 "glasses-enabled":"true",
-"eastereggs-enabled":"true"
+"eastereggs-enabled":"true",
+"susanoo-enabled":"true"
 }
 ]
