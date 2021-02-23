@@ -1,32 +1,18 @@
-[
-    {
-    "name": "CORnly",
-    "uuid": "063fa328-3985-4626-83b0-4f2cd226b0e4",
-    "enabled": "true",
-    "cape-style": "",
-    "cape-enabled": "true",
-    "hat-enabled": "true",
-    "hat-r": "12",
-    "hat-g": "255",
-    "hat-b": "90",
-    "wings-enabled": "true",
-    "wings-r": "0.1F",
-    "wings-g": "0.1F",
-    "wings-b": "0.1F"
-    },
-    {
-    "name": "sCHWITZer",
-    "uuid": "a77f6d95-57ab-4ab8-b243-3a34d2e310b0",
-    "enabled": "true",
-    "cape-style": "",
-    "cape-enabled": "true",
-    "hat-enabled": "true",
-    "hat-r": "12",
-    "hat-g": "255",
-    "hat-b": "90",
-    "wings-enabled": "true",
-    "wings-r": "0.1F",
-    "wings-g": "0.1F",
-    "wings-b": "0.1F"
-    }
+
+"name": "NAME",
+"uuid": "063fa328-3985-4626-83b0-4f2cd226b0e4",
+"enabled": "true",
+"cape-style": "",
+"cape-enabled": "true",
+"hat-enabled": "true",
+"hat-r": "12",
+"hat-g": "255",
+"hat-b": "90",
+"wings-enabled": "true",
+"wings-r": "0.1F",
+"wings-g": "0.1F",
+"wings-b": "0.1F",
+"glasses-enabled":"true",
+"eastereggs-enabled":"true"
+}
 ]
