@@ -1,6 +1,6 @@
 [
     {
-    "name": "NAME",
+    "name": "CORnly",
     "uuid": "063fa328-3985-4626-83b0-4f2cd226b0e4",
     "enabled": "true",
     "cape-style": "",
@@ -13,4 +13,20 @@
     "wings-r": "0.1F",
     "wings-g": "0.1F",
     "wings-b": "0.1F"
-    }]
+    },
+    {
+    "name": "sCHWITZer",
+    "uuid": "be810b78-b647-45df-9bbe-11f134633c24",
+    "enabled": "true",
+    "cape-style": "",
+    "cape-enabled": "true",
+    "hat-enabled": "true",
+    "hat-r": "12",
+    "hat-g": "255",
+    "hat-b": "90",
+    "wings-enabled": "true",
+    "wings-r": "0.1F",
+    "wings-g": "0.1F",
+    "wings-b": "0.1F"
+    }
+]
